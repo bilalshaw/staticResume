@@ -1,0 +1,113 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+
+.page-padding {
+    margin: 60px;
+}
+
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    margin-bottom: 0px;
+}
+
+.headline {
+    font-size: 1.4rem;
+    margin-bottom: 0px;
+}
+
+.contact {
+    font-size: 1.2rem;
+    margin-top: 0px;
+}
+
+.contact a {
+    text-decoration: none;
+}
+
+.heading {
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.experience-item {
+    padding-top: 15px;
+}    
+
+.experience-title {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.position {
+    
+}
+
+.employer {
+    text-align: center;
+}
+
+.duration {
+    text-align: right;
+}
+
+.trainings-skills {
+    display: flex;
+    justify-content: space-between;
+}
+
+.trainings {
+    flex-grow: 4;
+}
+
+.skills {
+    flex-grow: 2;
+    text-align: right;
+}
+
+.skills-list ul {
+    list-style: none;
+    font-size: .8rem;
+}
+
+.training-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.training-name {
+    
+}
+
+.training-accreditor {
+    text-align: right;
+    font-weight: bold;
+}
+
+.education-item {
+    padding-top: 15px;
+}    
+
+.education-title {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2rem;
+}
+
+.education-name {
+    font-weight: bold;
+}
+
+.education-institute {
+    text-align: right;
+}
+
+.education-year {
+    text-align: right;
+}
